@@ -6,7 +6,7 @@ Web Developer
 
 * ✉️  You can contact me at [rishik3555@gmail.com](mailto:rishik3555@gmail.com)
 
-* <img align="right" alt="Coding" width="400" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
+ <img align="right" alt="Coding" width="400" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
 ### Skills
 
