@@ -31,3 +31,7 @@ Web Developer
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/RISHIK92/Flash-Chat" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RISHIK92&repo=Flash-Chat&title_color=ffffff&text_color=ffffff&icon_color=64748b&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+![snake gif](https://github.com/YOUR_USERNAME/RISHIK92/blob/output/github-contribution-grid-snake-dark.svg)
+
+
