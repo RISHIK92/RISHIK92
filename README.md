@@ -68,6 +68,8 @@ Web Developer
 
 <a href="http://www.github.com/RISHIK92"><img src="https://github-readme-streak-stats.herokuapp.com/?user=RISHIK92&stroke=ffffff&background=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
+<img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=RISHIK92&theme=dark"></td><td width="50%" align="center">
+
 <a href="https://github.com/RISHIK92" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RISHIK92&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=64748b&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
