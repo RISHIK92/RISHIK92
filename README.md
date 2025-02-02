@@ -69,9 +69,8 @@ Web Developer
 
 <img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=RISHIK92&theme=dark"></td><td width="50%" align="center">
 
-<a href="https://github.com/RISHIK92" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RISHIK92&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=64748b&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=brandonc123&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6">
+<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=RISHIK92&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6">
 
 <b>Top Repositories</b>
 
