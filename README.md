@@ -64,7 +64,7 @@ Web Developer
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/RISHIK92"><img src="https://github-readme-stats.vercel.app/api?username=RISHIK92&show_icons=true&hide=issues,&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=64748b&bg_color=000000&hide_border=true&show_icons=true" alt="RISHIK92's GitHub stats" /></a>
+<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=RISHIK92&theme=dark&show_icons=true&count_private=true">
 
 
 <img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=RISHIK92&theme=dark"></td><td width="50%" align="center">
